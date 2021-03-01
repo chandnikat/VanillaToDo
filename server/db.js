@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const MONGO_URI =
-  "mongodb+srv://chandni:DJemkjTaqB5Ewm9K@todos.4twfb.mongodb.net/todos?retryWrites=true&w=majority";
+  // "enter MondoDB database url;
 
 const connectDB = async () => {
   try {
